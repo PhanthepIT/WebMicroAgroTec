@@ -199,7 +199,7 @@ card_product_count !== 0 && <div className='w-[20px] h-[20px] absolute bg-red-50
                 </Link>
     <div className='flex justify-start items-center gap-10'>
     <div className='flex group cursor-pointer text-slate-800 text-sm justify-center items-center gap-1 relative after:h-[18px] after:w-[1px] after:bg-[#afafaf] after:-right-[16px] after:absolute '>
-            <img src="http://localhost:3000/images/language.png" alt="" />
+            <img src="https://micro-agrotec.com/images/language.png" alt="" />
             <span><IoMdArrowDropdown /></span>
             <ul className='absolute invisible transition-all top-12 rounded-sm duration-200 text-white p-2 w-[100px] flex flex-col gap-3 group-hover:visible group-hover:top-6 group-hover:bg-black z-10'>
             <li>Thai</li>
