@@ -141,9 +141,9 @@ const Header = () => {
                         <li>
                             <Link to='/contact' className={`p-2 block ${pathname === '/contact' ?  'text-[#272362]' : 'text-slate-600' } `} >ติดต่อเรา</Link>
                         </li>
-                        <li>
+                        {/* <li>
                             <Link to='/landing' className={`p-2 block ${pathname === '/landing' ?  'text-[#272362]' : 'text-slate-600' } `} >แนะนำ</Link>
-                        </li>
+                        </li> */}
 
                     </ul>
 
@@ -232,9 +232,9 @@ card_product_count !== 0 && <div className='w-[20px] h-[20px] absolute bg-red-50
                         <li>
                             <Link to='/contact' className={`py-2 block ${pathname === '/contact' ?  'text-[#272362]' : 'text-slate-600' } `} >ติดต่อเรา</Link>
                         </li>
-                        <li>
+        {/* <li>
                             <Link to='/landing' className={`p-2 block ${pathname === '/landing' ?  'text-[#272362]' : 'text-slate-600' } `} >แนะนำ</Link>
-                        </li>
+                        </li>*/}
 
                     </ul>
 
