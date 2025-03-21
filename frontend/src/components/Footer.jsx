@@ -22,7 +22,7 @@ const Footer = () => {
             <div className='w-[85%] flex flex-wrap mx-auto border-b py-16 md-lg:pb-10 sm:pb-6'>
                 <div className='w-3/12 lg:w-4/12 sm:w-full'>
                     <div className='flex flex-col gap-3'>
-                        <img className='w-full h-full' src="http://localhost:3000/images/logo.png" alt="logo" />
+                        <img className='w-full h-full' src="https://micro-agrotec.com/images/logo.png" alt="logo" />
                         <ul className='flex flex-col gap-2 text-slate-600'>
                             <li>ที่อยู่ :  78/518 หมู่ที่ 9 ตำบลละหาร อำเภอบางบัวทอง จ.นนทบุรี 11110</li>
                             <li>โทรศัพท์ : 063 920 4296</li>
